@@ -1,0 +1,74 @@
+{
+	"Pad 5": {
+		"TWRP1": "https://github.com/ArKT-7/twrp_device_xiaomi_nabu/releases/download/mod-win/V4-MODDED-TWRP-WINDOWS.img",
+		"TWRPdesk1": "Recommended",
+		"OFOX1": "https://github.com/Alexey-Proger/files/releases/download/recovery-nabu/ofox.img",
+		"OFOXdesk1": "Outdated",
+		"PBRP1": "https://github.com/Alexey-Proger/files/releases/download/recovery-nabu/pbrp.img",
+		"PBRPdesk1": "Reborn"
+	},
+	"Poco X3 Pro": {
+		"TWRP1": "https://github.com/WaLoVayu/POCOX3Pro-Common-Files/releases/download/twrp/twrp-3.7.1_vap.img",
+		"TWRPdesk1": "Android 12-15",
+	},
+	"Mix 2s": {
+		"TWRP1": "https://github.com/n00b69/woa-polaris/releases/download/Recovery/modded-twrp-polaris.img",
+		"TWRPdesk1": "Android 9-12",
+		"OFOX1": "https://github.com/n00b69/woa-polaris/releases/download/Recovery/modded-ofox-polaris.img",
+		"OFOXdesk1": "Android 13+"
+	},
+	"Mi 9T Pro": {
+		"TWRP1": "https://github.com/new-WoA-Raphael/woa-raphael/releases/download/Files/modded-twrp-raphael.img",
+		"TWRPdesk1": "Default"
+	},
+	"Mi 9": {
+		"TWRP1": "https://github.com/n00b69/woa-cepheus/releases/download/Recovery/modded-twrp-3.5.2_9-0-cepheus.img",
+		"TWRPdesk1": "For stock",
+		"OFOX1": "https://github.com/n00b69/woa-cepheus/releases/download/Recovery/modded-ofox-R11.0-cepheus.img",
+		"OFOXdesk1": "No dynamic part.",
+		"OFOX2": "https://github.com/n00b69/woa-cepheus/releases/download/Recovery/modded-OrangeFox-cepheus-A14retrofit-02Jan2024.img",
+		"OFOXdesk2": "A14, dynamic part.",
+		"OFOX3": "https://github.com/n00b69/woa-cepheus/releases/download/Recovery/modded-OrangeFox-cepheus-beta@R11.1.img",
+		"OFOXdesk3": "Dynamic part.",
+		"OFOX4": "https://github.com/n00b69/woa-cepheus/releases/download/Recovery/modded-OrangeFox-R11.3_A16.Retrofit-Unofficial-cepheus.img",
+		"OFOXdesk4": "A16, dynamic part.",
+	},
+	"Mi 8 Pro": {
+		"TWRP1": "https://github.com/n00b69/woa-equuleus/releases/download/Files/twrp.img",
+		"TWRPdesk1": "Default"
+	},
+	"Mi 8": {
+		"TWRP1": "https://github.com/n00b69/woa-dipper/releases/download/Recovery/modded-twrp-dipper.img",
+		"TWRPdesk1": "Android 9-12",
+		"OFOX1": "https://github.com/n00b69/woa-dipper/releases/download/Recovery/modded-ofox-dipper.img",
+		"OFOXdesk1": "Android 13+"
+	},
+	"7T Pro": {
+		"TWRP1": "https://github.com/n00b69/woa-op7/releases/download/Recovery/moddedtwrp.img",
+		"TWRPdesk1": "For OOS11",
+		"TWRP2": "https://github.com/n00b69/woa-op7/releases/download/Recovery/guacamolefunny.img",
+		"TWRPdesk2": "For guacomole",
+		"TWRP3": "https://github.com/n00b69/woa-op7/releases/download/Recovery/twrphotdogoos12.img",
+		"TWRPdesk3": "OOS12, hotdog"
+	},
+	"7 Pro": {
+		"TWRP1": "https://github.com/n00b69/woa-op7/releases/download/Recovery/moddedtwrp.img",
+		"TWRPdesk1": "For OOS11",
+		"TWRP2": "https://github.com/n00b69/woa-op7/releases/download/Recovery/guacamolefunny.img",
+		"TWRPdesk2": "Custom, guacomole",
+		"TWRP3": "https://github.com/n00b69/woa-op7/releases/download/Recovery/twrphotdogoos12.img",
+		"TWRPdesk3": "OOS12, hotdog"
+	},
+	"POCO F1": {
+		"TWRP1": "https://github.com/n00b69/woa-beryllium/releases/download/Recovery/twrp-beryllium.img",
+		"TWRPdesk1": "Android 9-12",
+		"OFOX1": "https://github.com/n00b69/woa-beryllium/releases/download/Recovery/ofox-beryllium-ext.img",
+		"OFOXdesk1": "A12+, system_ext",
+		"OFOX2": "https://github.com/n00b69/woa-beryllium/releases/download/Recovery/ofox-beryllium-dynamic.img",
+		"OFOXdesk2": "A12+, dynamic"
+	},
+	"Mix 3": {
+		"OFOX1": "https://github.com/n00b69/woa-perseus/releases/download/Files/modded-ofox-perseus.img",
+		"OFOXdesk1": "Default"
+	}
+}
