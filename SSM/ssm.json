@@ -5,7 +5,7 @@
 		"OFOX1": "https://github.com/Alexey-Proger/files/releases/download/recovery-nabu/ofox.img",
 		"OFOXdesk1": "Outdated",
 		"PBRP1": "https://github.com/Alexey-Proger/files/releases/download/recovery-nabu/pbrp.img",
-		"PBRPdesk1": "Reborn"
+		"PBRPdesk1": "Reborn (Unstable)"
 	},
 	"Poco X3 Pro": {
 		"TWRP1": "https://github.com/WaLoVayu/POCOX3Pro-Common-Files/releases/download/twrp/twrp-3.7.1_vap.img",
@@ -28,10 +28,8 @@
 		"OFOXdesk1": "No dynamic part.",
 		"OFOX2": "https://github.com/n00b69/woa-cepheus/releases/download/Recovery/modded-OrangeFox-cepheus-A14retrofit-02Jan2024.img",
 		"OFOXdesk2": "A14, dynamic part.",
-		"OFOX3": "https://github.com/n00b69/woa-cepheus/releases/download/Recovery/modded-OrangeFox-cepheus-beta@R11.1.img",
-		"OFOXdesk3": "Dynamic part.",
-		"OFOX4": "https://github.com/n00b69/woa-cepheus/releases/download/Recovery/modded-OrangeFox-R11.3_A16.Retrofit-Unofficial-cepheus.img",
-		"OFOXdesk4": "A16, dynamic part.",
+		"OFOX3": "https://github.com/n00b69/woa-cepheus/releases/download/Recovery/modded-OrangeFox-R11.3_A16.Retrofit-Unofficial-cepheus.img",
+		"OFOXdesk3": "A16, dynamic part.",
 	},
 	"Mi 8 Pro": {
 		"TWRP1": "https://github.com/n00b69/woa-equuleus/releases/download/Files/twrp.img",
