@@ -1,11 +1,13 @@
 {
 	"Pad 5": {
 		"TWRP1": "https://github.com/ArKT-7/twrp_device_xiaomi_nabu/releases/download/mod-win/V4-MODDED-TWRP-WINDOWS.img",
-		"TWRPdesk1": "Recommended",
+		"TWRPdesk1": "Default, used in guide",
+		"TWRP2": "https://github.com/Alexey-Proger/files/releases/download/recovery-nabu/twrp-landscape.img",
+		"TWRPdesk2": "Old, landscape",
 		"OFOX1": "https://github.com/Alexey-Proger/files/releases/download/recovery-nabu/ofox.img",
 		"OFOXdesk1": "Outdated",
 		"PBRP1": "https://github.com/Alexey-Proger/files/releases/download/recovery-nabu/pbrp.img",
-		"PBRPdesk1": "Reborn (Unstable)"
+		"PBRPdesk1": "Reborn (aka SHARP, unstable)"
 	},
 	"Poco X3 Pro": {
 		"TWRP1": "https://github.com/WaLoVayu/POCOX3Pro-Common-Files/releases/download/twrp/twrp-3.7.1_vap.img",
