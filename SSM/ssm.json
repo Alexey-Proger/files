@@ -1,4 +1,17 @@
 {
+	"SupportedDevices": {
+		"0": "Pad 5",
+		"1": "Poco X3 Pro",
+		"2": "Mix 2s",
+		"3": "Mi 9T Pro",
+		"4": "Mi 9",
+		"5": "Mi 8 Pro",
+		"6": "Mi 8",
+		"7": "7T Pro",
+		"8": "7 Pro",
+		"9": "POCO F1",
+		"10": "Mix 3"
+	},
 	"Pad 5": {
 		"TWRP1": "https://github.com/ArKT-7/twrp_device_xiaomi_nabu/releases/download/mod-win/V4-MODDED-TWRP-WINDOWS.img",
 		"TWRPdesk1": "Default, used in guide",
